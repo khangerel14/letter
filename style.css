@@ -84,13 +84,13 @@ body {
 .text {
   text-align: center;
   font-size: 11px;
-  width: 100px;
+  width: 110px;
   font-family: Arial, Helvetica, sans-serif;
   margin-top: 20px;
   font-weight: bold;
   color: black;
   position: relative;
-  top: -27px;
+  top: -45px;
   left: 7rem;
 }
 /* ----------heart--------------*/
